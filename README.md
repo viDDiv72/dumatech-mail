@@ -36,6 +36,14 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 
 ## Novedades
 
+### 1.2.0
+- **Calendario sincronizado con Microsoft 365, Outlook.com y Google Calendar**:
+  - Ves todos tus calendarios, incluidos los compartidos y los festivos.
+  - Lo que crees, edites o borres se guarda en el servidor y aparece en Outlook web, el móvil y Google Calendar.
+  - Incluye invitaciones, eventos periódicos y enlaces de Teams y Meet.
+- **Varias cuentas de WhatsApp**, cada una con su propio QR (por ejemplo, personal y trabajo).
+- **Corregido**: las vistas de día y semana del calendario no mostraban los eventos con hora.
+
 ### 1.1.2
 - **Seguridad**:
   - Los adjuntos (HTML, SVG…) ya no pueden ejecutarse dentro de la aplicación.
