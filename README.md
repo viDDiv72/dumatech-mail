@@ -36,6 +36,10 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 
 ## Novedades
 
+### 1.2.1
+- **«Iniciar sesión con Google» listo de serie**: conecta Gmail y Google Workspace, con correo y Google Calendar, sin contraseña de aplicación. Mientras Google verifica la app, solo funciona para las cuentas dadas de alta como usuarios de prueba.
+- Si en la pantalla de Google no marcas el permiso de Gmail, la app te explica cómo hacerlo.
+
 ### 1.2.0
 - **Calendario sincronizado con Microsoft 365, Outlook.com y Google Calendar**:
   - Ves todos tus calendarios, incluidos los compartidos y los festivos.
