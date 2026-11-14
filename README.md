@@ -36,6 +36,21 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 
 ## Novedades
 
+### 1.1.2
+- **Seguridad**:
+  - Los adjuntos (HTML, SVG…) ya no pueden ejecutarse dentro de la aplicación.
+  - El servidor interno rechaza peticiones de otras webs.
+  - La clave que protege tus cuentas se guarda cifrada con Windows.
+- **Corregido**:
+  - Enviar correo desde «Redactar».
+  - Importar archivos (.eml, .mbox, .ics, .vcf).
+  - Abrir .pst.
+  - Enviar archivos por WhatsApp.
+- **Accesibilidad**: carpetas y mensajes se pueden usar con el teclado (Tab e Intro).
+- **Desinstalación**:
+  - Borra la caché de actualizaciones.
+  - Pregunta si borrar también tus datos.
+
 ### 1.1.1
 - **«Iniciar sesión con Microsoft» listo de serie**: ya no hay que configurar nada para conectar cuentas de Microsoft 365, Outlook.com o Hotmail.
 
