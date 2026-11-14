@@ -36,6 +36,9 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 
 ## Novedades
 
+### 1.1.1
+- **«Iniciar sesión con Microsoft» listo de serie**: ya no hay que configurar nada para conectar cuentas de Microsoft 365, Outlook.com o Hotmail.
+
 ### 1.1.0
 - **Iniciar sesión con Microsoft**: Microsoft 365 (incluido Empresa Básico, sin aplicaciones de escritorio) y Outlook.com/Hotmail.
 - **Iniciar sesión con Google** para Gmail y Google Workspace.
