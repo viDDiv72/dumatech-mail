@@ -1,4 +1,4 @@
-# Dumatech +mail
+# +Mail
 
 Correo, calendario, contactos, archivos .PST, asistente de IA y WhatsApp en una sola aplicación de escritorio.
 
@@ -8,9 +8,9 @@ Descarga la última versión en **[Releases](https://github.com/viDDiv72/dumatec
 
 | Sistema | Archivo |
 |---|---|
-| Windows 10/11 | `Dumatech-mail-Setup-x.y.z.exe` |
-| macOS (Apple Silicon / Intel) | `Dumatech-mail-x.y.z-arm64.dmg` / `-x64.dmg` |
-| Linux | `Dumatech-mail-x.y.z-x86_64.AppImage` o `.deb` |
+| Windows 10/11 | `PlusMail-Setup-x.y.z.exe` |
+| macOS (Apple Silicon / Intel) | `PlusMail-x.y.z-arm64.dmg` / `-x64.dmg` |
+| Linux | `PlusMail-x.y.z-x86_64.AppImage` o `.deb` |
 
 En Windows, la aplicación se actualiza sola. Busca versiones nuevas, las descarga en segundo plano y las instala al cerrar. También puedes actualizar desde **Configuración → Acerca de → Reiniciar y actualizar**.
 
@@ -35,6 +35,12 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 - **WhatsApp integrado**: se vincula con un código QR.
 
 ## Novedades
+
+### 1.3.0
+- **La aplicación pasa a llamarse +Mail** (antes «Dumatech +mail») en la ventana, el instalador, los accesos directos, la lista de programas instalados y los avisos.
+- Se conservan las cuentas, el correo, los ajustes y las actualizaciones automáticas.
+- **Logotipos oficiales de ChatGPT, Claude y DeepSeek** en *Configuración → Inteligencia artificial* y en el asistente de IA.
+- El logotipo +Mail se muestra sin placa en la barra superior.
 
 ### 1.2.2
 - **Nueva imagen +Mail**:
