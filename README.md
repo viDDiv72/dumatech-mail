@@ -36,6 +36,11 @@ El proveedor se detecta automáticamente al escribir el correo, también con dom
 
 ## Novedades
 
+### 1.2.2
+- **Nueva imagen +Mail**:
+  - Icono «correo metálico con plus naranja» en el programa, el instalador, la barra de tareas y la bandeja del sistema.
+  - Logotipo «+Mail» en vidrio naranja y grafito dentro de la aplicación.
+
 ### 1.2.1
 - **«Iniciar sesión con Google» listo de serie**: conecta Gmail y Google Workspace, con correo y Google Calendar, sin contraseña de aplicación. Mientras Google verifica la app, solo funciona para las cuentas dadas de alta como usuarios de prueba.
 - Si en la pantalla de Google no marcas el permiso de Gmail, la app te explica cómo hacerlo.
